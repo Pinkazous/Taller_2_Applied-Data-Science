@@ -5,10 +5,9 @@ Este repositorio contiene la solucion al Taller 2 del curso de Ciencia de Datos 
 Estructura del Repositorio:
 
 - data/: Dataset con las variables necesarias para entrenar el modelo(apartamentos.csv) 
-- notebook/: taller2.ipynb en el cual se realiza todo el desarrollo del taller 
+- notebooks/: Contiene el notebook taller2.ipynb el cual realiza todo el desarrollo del taller 
 - README.md: Este archivo de contexto.
 - Diccionario de datos - apartamentos.html 
-- Taller2.pdf - instrucciones del Taller
 
 Instrucciones de Uso:
 
